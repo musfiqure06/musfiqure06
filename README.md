@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20%26%20Building-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Availability-Full--Time%20On--Site-00FFAA?style=for-the-badge&logo=location&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Chattogram%2C%20BD-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20BD-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Hire-Me%20Immediately-FF6B6B?style=for-the-badge&logo=hire-a-helper&logoColor=white" />
 </p>
 
